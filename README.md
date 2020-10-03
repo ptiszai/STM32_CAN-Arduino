@@ -5,6 +5,7 @@
  [link to STM32H743ZIT6](https://www.st.com/en/microcontrollers-microprocessors/stm32h743zi.html)
 - CAN FD Bus MCP2562FD: [link to MCP2562FD](https://www.microchip.com/wwwproducts/en/MCP2562FD)
 - 2-Mbit serial I²C bus EEPROM M24M02-DR: [link to M24M02-DR](https://www.st.com/en/memories/m24m02-dr.html)
+- USB-2 OTG FS
 - Arduino connectors.
 
 In-circuit debugger and programmer: 
