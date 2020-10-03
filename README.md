@@ -10,6 +10,6 @@
 In-circuit debugger and programmer: 
 STLINK_V3SET:  [link to STLINK_V3SET](https://www.st.com/en/development-tools/stlink-v3set.html)
 
-### PCB images:
+### PCB image:
 ![](https://github.com/ptiszai/STM32_CAN-Arduino/blob/master/CANnode_pcb.png)
 
