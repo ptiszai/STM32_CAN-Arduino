@@ -1,4 +1,4 @@
-# STM32, CAN_FD, Arduino connectors PCB Designe, and gerber files
+# STM32H7, CAN_FD, Arduino connectors PCB Designe, and gerber files
 ##### PCB board created in Altium Designer 19.
 ### Features
 - STM32H743ZIT6 MCU LQFP144 processor:
